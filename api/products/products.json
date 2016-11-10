@@ -1,0 +1,22 @@
+[
+            {
+                "productId": 2,
+                "productName": "Garden Cart",
+                "productCode": "GND-0023",
+                "releaseDate": "March 18, 2016",
+                "description": "15 gallon capacity rolling cart",
+                "price": 32.99,
+                "starRating": 4.2,
+                "imageUrl": "http://lajstore.com/uploads/product_image/product_119_1_thumb.jpg"
+            },
+            {
+                "productId": 3,
+                "productName": "Golden Sprinkler",
+                "productCode": "GLD-0533",
+                "releaseDate": "March 13, 2015",
+                "description": "Golden water sprinkler",
+                "price": 145.99,
+                "starRating": 4.5,
+                "imageUrl": "https://d13yacurqjgara.cloudfront.net/users/45098/screenshots/675869/kaisersosa_boxmockup_tn.png"
+            }
+        ]
